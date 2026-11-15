@@ -1,9 +1,9 @@
 # presencing-break
 
-One-minute presencing breaks while your AI works.
+One-minute presencing breaks while your prompt runs.
 
 When you hand an AI coding agent a big task, you wait. presencing-break turns
-some of that waiting into a small practice. Now and then, a card like this
+some of that waiting into a small natural intelligence practice. Now and then, a card like this
 appears at the top of the AI's reply:
 
 ```
@@ -33,13 +33,12 @@ place we work from (Scharmer & Kaufer, 2025).
 
 Our natural human intelligences matter now, more than ever. When waiting for a
 prompt response, rather than reach for your phone, it's a great time to attend
-to presencing. A short pause clears attention
-left over from the last task (Leroy, 2009), and a little movement readies the
-brain for the next one (Ratey & Hagerman, 2008).
+to presencing. A short pause clears attention left over from the last task (Leroy, 2009),
+and a little movement readies the brain for the next one (Ratey & Hagerman, 2008).
 
 These are micro-practices: breathing, stretching, looking far, naming a
 feeling, doodling, noticing the machine at work. Each takes about a minute.
-There are 46 of them in `activities.json`.
+There are 46 of them in `activities.json`. Customize to make your own.
 
 ## Which tools it works with
 
